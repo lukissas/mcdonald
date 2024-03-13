@@ -241,8 +241,7 @@ footer {
     height: 30px;
     margin: 10px;
     border-radius: 50%;
-    background-color: #ffffff;
-    line-height: 50px; /* Ajusta según sea necesario */
+    line-height: 50px;
     border-width: 1px;
     border-color: #a3a3a3; 
     border-style: solid;
@@ -252,6 +251,7 @@ footer {
 .redes a:hover {
     filter: brightness(150%); 
 }
+
 
 .redes a.facebook:hover {
     background-color: #3b5998; 
@@ -268,6 +268,7 @@ footer {
 .redes a.youtube:hover {
     background-color: #c4302b;
 }
+
 
 
 
