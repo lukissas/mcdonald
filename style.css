@@ -236,20 +236,26 @@ footer {
 }
 
 .redes a {
-    display: inline-block;
-    width: 30px;
-    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    width: 40px;
+    height: 40px;
     margin: 10px;
     border-radius: 50%;
     line-height: 50px;
     border-width: 1px;
     border-color: #a3a3a3; 
     border-style: solid;
+    color: #333;
+    font-size: 20px;
 }
 
 
 .redes a:hover {
     filter: brightness(150%); 
+    color: #ffffff;
 }
 
 
